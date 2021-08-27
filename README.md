@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou a Thais Dancs 👩‍🦰
 
-- 👜 Hoje trabalho no setor financeiro de uma indústria porém, sinto a necessidade e o desejo de transicionar para a área de tecnologia
+- 👜 Depois de atuar por mais de 11 anos na área financeira, comecei a estudar programação, com foco em back-end, Java, HTML, CSS e JavaScript.
 - 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas 
 
 <div>
