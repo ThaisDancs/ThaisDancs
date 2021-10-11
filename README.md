@@ -1,9 +1,6 @@
 
 ### Olá! Eu sou a Thais Dancs 👩‍🦰
 
-- 👜 Depois de atuar por mais de 11 anos na área financeira, comecei a estudar programação, com foco em back-end, Java, HTML, CSS e JavaScript.
-- 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas 
-
 ###
 
 <div>
