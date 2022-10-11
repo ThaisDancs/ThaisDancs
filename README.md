@@ -1,5 +1,5 @@
 
-### Olá! Eu sou a Thais Dancs 🙋‍♀️
+### Olá, eu sou a Thais Dancs! 🙋‍♀️
 
 ###
 
